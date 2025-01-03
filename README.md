@@ -9,6 +9,7 @@ Neste repositório você irá encontrar a análise de
 
 ## Portifólio de Análise de Requisito
 - Protótipo do Figma [PodcastApp](https://www.figma.com/design/ECIzSfAWHcPJSi3HxkKdUr/PodcastAppChallenge?node-id=8-5911&p=f)
+![Referencia Protótipo](img/figma-app.png)
 
 
 ## Portifólio Plano de Teste
