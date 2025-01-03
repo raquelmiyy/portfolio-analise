@@ -14,4 +14,4 @@ Neste repositório você irá encontrar a análise de
 ## Portifólio Plano de Teste
 - Site utilizado para elaboração do Plano [SauceDemo](https://www.saucedemo.com)
 
-![Home Site SauceDemo](img\site-saucedemo.png)
+![Home Site SauceDemo](img/site-saucedemo.png)
